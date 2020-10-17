@@ -35,7 +35,6 @@ exports.help = {
   usage: 'davet-sıralaması',
  
 };
-[12:43]
-komutlar/davetıralaması.js
-Bu kanalda mesaj gönderme iznine sahip değilsin.
-﻿
+
+
+
